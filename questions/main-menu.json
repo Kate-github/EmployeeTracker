@@ -1,0 +1,39 @@
+{
+    "type": "list",
+    "name": "whatToDo",
+    "message": "What would you like to do?",
+    "choices": [
+        {
+            "value": "show-depts",
+            "name": "View all departments"
+        },
+        {
+            "value": "show-roles",
+            "name": "View all roles"
+        },
+        {
+            "value": "show-emps",
+            "name": "View all employees"
+        },
+        {
+            "value": "add-dept",
+            "name": "Add a department"
+        },
+        {
+            "value": "add-role",
+            "name": "Add a role"
+        },
+        {
+            "value": "add-emp",
+            "name": "Add an employee"
+        },
+        {
+            "value": "udpate-emp-role",
+            "name": "Update an employee role"
+        },
+        {
+            "value": "quit",
+            "name": "Quit"
+        }
+    ]
+}

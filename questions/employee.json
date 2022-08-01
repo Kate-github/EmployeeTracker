@@ -1,0 +1,20 @@
+[
+    {
+        "type": "input",
+        "name": "firstName",
+        "message": "Please enter the employee's first name."
+    },
+    {
+        "type": "input",
+        "name": "lastName",
+        "message": "Please enter the employee's last name."
+    },
+    {
+        "type": "list",
+        "name": "manager",
+        "message": "Who is the employee's manager?",
+        "choices": [
+        
+        ]
+    }
+]

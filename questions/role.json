@@ -1,0 +1,20 @@
+[
+    {
+        "type": "input",
+        "name": "title",
+        "message": "Please enter the name of the role."
+    },
+    {
+        "type": "input",
+        "name": "salary",
+        "message": "Please enter the role's salary."
+    },
+    {
+        "type": "list",
+        "name": "department",
+        "message": "What department does this role belong to?",
+        "choices": [
+        
+        ]
+    }
+]
