@@ -1,0 +1,6 @@
+{
+    "type": "list",
+    "name": "role_id",
+    "message": "Please select the employee's new role.",
+    "choices": []
+}

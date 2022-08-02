@@ -28,7 +28,7 @@
             "name": "Add an employee"
         },
         {
-            "value": "udpate-emp-role",
+            "value": "update-emp-role",
             "name": "Update an employee role"
         },
         {

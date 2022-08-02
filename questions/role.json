@@ -11,10 +11,8 @@
     },
     {
         "type": "list",
-        "name": "department",
+        "name": "department_id",
         "message": "What department does this role belong to?",
-        "choices": [
-        
-        ]
+        "choices": []
     }
 ]

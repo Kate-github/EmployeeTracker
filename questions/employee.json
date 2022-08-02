@@ -11,10 +11,14 @@
     },
     {
         "type": "list",
-        "name": "manager",
+        "name": "role_id",
+        "message": "Please select the employee's role.",
+        "choices": []
+    },
+    {
+        "type": "list",
+        "name": "manager_id",
         "message": "Who is the employee's manager?",
-        "choices": [
-        
-        ]
+        "choices": []
     }
 ]
