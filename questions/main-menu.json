@@ -16,6 +16,10 @@
             "name": "View all employees"
         },
         {
+            "value": "show-all",
+            "name": "View all tables"
+        },
+        {
             "value": "add-dept",
             "name": "Add a department"
         },
